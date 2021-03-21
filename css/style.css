@@ -144,6 +144,12 @@ body {
   max-width: 460px;
 }
 
+@media (max-width: 739px) {
+  .sobre p {
+    padding: 20px;
+  }
+}
+
 /* Produtos */
 
 .produtos {
